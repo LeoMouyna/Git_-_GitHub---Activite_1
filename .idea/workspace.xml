@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bee0db3e-d5ce-44cc-99c9-78642e08a8df" name="Default" comment="">
+<change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bonjour.js" afterPath="$PROJECT_DIR$/js/bonjour.js" />
     </list>
     <ignored path="Git_-_GitHub---Activite_1.iws" />
@@ -45,11 +46,7 @@
         <entry file="file://$PROJECT_DIR$/js/bonjour.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-<<<<<<< HEAD
               <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-=======
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
->>>>>>> demande-nom
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -249,11 +246,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2127000" />
-=======
-    <option name="totallyTimeSpent" value="1561000" />
->>>>>>> demande-nom
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -339,19 +332,13 @@
     <entry file="file://$PROJECT_DIR$/js/bonjour.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-<<<<<<< HEAD
           <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-=======
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
->>>>>>> demande-nom
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-=======
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
