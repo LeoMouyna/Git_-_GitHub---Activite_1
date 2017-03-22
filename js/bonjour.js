@@ -1,4 +1,5 @@
 /**
  * Created by msi on 22/03/2017.
  */
-console.log("Bonjour !");
+var nom = prompt("Quel est ton prénom ?");
+console.log("Bonjour " + nom + " !");
